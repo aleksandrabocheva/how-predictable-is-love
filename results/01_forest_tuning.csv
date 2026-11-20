@@ -1,0 +1,11 @@
+"experiment","model","mtry","metro_pctile","top1_10alt","forest_sec","n_valid","mean_splits"
+"A","Forest_v1",2,13.68,0.5167,796,30,22.9
+"A","Forest_core",2,13.64,0.5,723,30,24.6
+"B","Forest_core_mtry1",1,14,0.5133,478,30,23.2
+"B","Forest_core_mtry2",2,13.64,0.5,611,30,24.6
+"B","Forest_core_mtry3",3,13.55,0.4967,616,30,24.8
+"B","Forest_core_mtry4",4,13.47,0.4933,697,30,25.4
+"B","Forest_core_mtry5",5,13.55,0.4867,887,30,25.4
+"C","Forest_core",4,13.47,0.4933,996,30,25.4
+"C","Forest_full",5,13.62,0.5083,618,30,25.1
+"ref","M1_v1",NA,13.92,0.5083,NA,NA,NA

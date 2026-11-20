@@ -1,0 +1,14 @@
+# IPUMS microdata (not redistributable)
+data/
+*.dat
+*.dat.gz
+*.xml
+# R artifacts
+.RData
+.RDataTmp*
+.Rhistory
+.Rapp.history
+Rplots.pdf
+*.rds
+# OS
+.DS_Store

@@ -1,0 +1,6 @@
+"model","model_type","n_pred","metro_pctile","top10","top50","n_strata"
+"Forest_core","forest",5,13.6419,0.1,0.275,600
+"Forest_full","forest",9,13.6114,0.095,0.285,600
+"Forest_norace","forest",8,17.3306,0.0367,0.1867,600
+"M1_spline","clogit",9,13.1274,0.0983,0.2867,600
+"M1_spline_race","clogit",13,13.1825,0.1017,0.295,600

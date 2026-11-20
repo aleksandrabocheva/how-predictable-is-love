@@ -1,0 +1,9 @@
+Model,Top-1 (%),Metro rank (%),Loss in metro rank (pp),Loss in top-1 (pp)
+Random baseline,10,50,NA,NA
+All three: age + education + race,49.2,15.02,NA,NA
+Drop race  (age + education only),39.2,17.81,2.79,-10
+Drop age   (education + race only),29.8,28.55,13.53,-19.4
+Drop educ  (age + race only),45,16.35,1.33,-4.2
+Race alone,21,35.06,20.04,-28.2
+Age alone,34.7,20.01,4.99,-14.5
+Education alone,19.5,37.34,22.32,-29.7
